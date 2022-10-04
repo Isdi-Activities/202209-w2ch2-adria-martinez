@@ -1,0 +1,23 @@
+{
+  "name": "202209-w2ch2-adria-martinez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacky16/202209-w2ch2-adria-martinez.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacky16/202209-w2ch2-adria-martinez/issues"
+  },
+  "homepage": "https://github.com/Jacky16/202209-w2ch2-adria-martinez#readme",
+  "devDependencies": {
+    "husky": "^8.0.1"
+  }
+}
